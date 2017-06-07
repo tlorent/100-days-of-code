@@ -22,4 +22,4 @@
 
 **Thoughts** Got stuck on some logic, need to fix that next time. Learned some new jQuery things and got more experience in searching for solutions on StackOverflow.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/tlorent/temperature-converter
