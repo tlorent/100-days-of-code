@@ -6,7 +6,7 @@
 
 **Thoughts:** I struggled with the CSS part, to transition the trash icons. Other than that, I managed to recreate all the other functionalities in the app.
 
-**Link to work:** 
+**Link to work:** https://github.com/tlorent/todos
 
 ### Day 2: June 6 2017
 
