@@ -23,3 +23,11 @@
 **Thoughts** Got stuck on some logic, need to fix that next time. Learned some new jQuery things and got more experience in searching for solutions on StackOverflow.
 
 **Link(s) to work**: https://github.com/tlorent/temperature-converter
+
+### Day 4: June 8 2017
+
+**Today's Progress**: Improved the Celsius to Fahrenheit converter.
+
+**Thoughts** Encountered a strange bug, need to look into that the next time. Made slow progress today, for my next hour of code I need to write down what I need to get done for the project and write more pseudo to think about the code I'm going to write. Slightly frustrated today.
+
+**Link(s) to work**: https://github.com/tlorent/temperature-converter/commit/d1a18a700d5553a06e0502bd054ae1617642c81e
