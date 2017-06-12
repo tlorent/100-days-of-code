@@ -45,3 +45,9 @@
 **Today's Progress**: Worked through the JavaScript section of the freeCodeCamp curriculum.
 
 **Thoughts** Not all assignments/challenges went well, had some difficulties. When I was building the Movie Game a few months ago, my JavaScript was much better. It has become a little rusty, so it is really good practice to work through the JavaScript section of the freeCodeCamp.
+
+### Day 8: June 12 2017
+
+**Today's Progress**: Worked through the JavaScript & OOP section of the freeCodeCamp curriculum, as well as made a start with the NodeJS part of Colt Steele's Web Development Bootcamp.
+
+**Thoughts** Need to write more pseudo before writing any code, needs to become more of a habit. Big part of the JS curriculum is going well.
