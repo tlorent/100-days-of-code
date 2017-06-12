@@ -11,7 +11,7 @@
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
 3. **Write code minimum an hour every day for the next 100 days.**
-4. **Bonus: Learn code minimum 30 min every day for the next 100 days.**
+4. **Bonus: Learn code from books, tutorials, articles etc. minimum 30 min every day for the next 100 days.**
 5. Change the date in [Rules](rules.md) to the day you've started the challenge.
 6. Delete the examples in the log, or comment them out, and start filling it with your own content.
 7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
