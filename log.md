@@ -57,3 +57,5 @@
 **Today's Progress**: Started the Basic Algorithm Scripting section of the fCC curriculum. Worked through three challenges.
 
 **Thoughts** Writing more pseudo definitely helped, sometimes this meant that the code worked instantly. Feel like I'm not making a lot of progress, would like to make a better schedule.
+
+**Link to work:** https://gist.github.com/tlorent/5d7a7f054cbb132cc409dc27759ae007, https://gist.github.com/tlorent/b3c1873cf10462bc374ec516c78cdb03, https://gist.github.com/tlorent/54656c4cf2b25dacfb232ee7479b8576
