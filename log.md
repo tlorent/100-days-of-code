@@ -51,3 +51,9 @@
 **Today's Progress**: Worked through the JavaScript & OOP section of the freeCodeCamp curriculum, as well as made a start with the NodeJS part of Colt Steele's Web Development Bootcamp.
 
 **Thoughts** Need to write more pseudo before writing any code, needs to become more of a habit. Big part of the JS curriculum is going well.
+
+### Day 9-10: June 13/14 2017
+
+**Today's Progress**: Started the Basic Algorithm Scripting section of the fCC curriculum. Worked through three challenges.
+
+**Thoughts** Writing more pseudo definitely helped, sometimes this meant that the code worked instantly. Feel like I'm not making a lot of progress, would like to make a better schedule.
