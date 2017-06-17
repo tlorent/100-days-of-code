@@ -52,10 +52,10 @@
 
 **Thoughts** Need to write more pseudo before writing any code, needs to become more of a habit. Big part of the JS curriculum is going well.
 
-### Day 9-10: June 13/14 2017
+### Day 9-13: June 13-17 2017
 
 **Today's Progress**: Started the Basic Algorithm Scripting section of the fCC curriculum. Worked through three challenges.
 
 **Thoughts** Writing more pseudo definitely helped, sometimes this meant that the code worked instantly. Feel like I'm not making a lot of progress, would like to make a better schedule.
 
-**Link to work:** https://gist.github.com/tlorent/5d7a7f054cbb132cc409dc27759ae007, https://gist.github.com/tlorent/b3c1873cf10462bc374ec516c78cdb03, https://gist.github.com/tlorent/54656c4cf2b25dacfb232ee7479b8576
+**Link to work:** https://gist.github.com/tlorent/5d7a7f054cbb132cc409dc27759ae007, https://gist.github.com/tlorent/b3c1873cf10462bc374ec516c78cdb03, https://gist.github.com/tlorent/54656c4cf2b25dacfb232ee7479b8576, https://gist.github.com/tlorent/5e92f6a9497b67a5c7ebd88b12d11ae4, https://gist.github.com/tlorent/2735ba0fb7a8d8c1b5e9b7f761543428, https://gist.github.com/tlorent/d291c305941fa1ba5fe3e7fd8ea13b14, https://gist.github.com/tlorent/e11940f9f44763cdce4fc56af2311c47, https://gist.github.com/tlorent/65618d8ed42282d5aca2cdd491d94521
