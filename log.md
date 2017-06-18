@@ -54,7 +54,7 @@
 
 ### Day 9-13: June 13-17 2017
 
-**Today's Progress**: Started the Basic Algorithm Scripting section of the fCC curriculum. Worked through three challenges.
+**Today's Progress**: Started the Basic Algorithm Scripting section of the fCC curriculum. Worked through eight challenges.
 
 **Thoughts** Writing more pseudo definitely helped, sometimes this meant that the code worked instantly. Feel like I'm not making a lot of progress, would like to make a better schedule.
 
